@@ -1,5 +1,6 @@
 # ModbusRTUSlave
 Simple RTU slave implementation
+
 Simple and lightweight code for STM32. Can be ported to other 32- or 8-bit platform.
 
 How to use:
